@@ -1,9 +1,10 @@
-<div aling="justify">
 <div style="text-align: center;"> 
 
 # Proyecto Biblioteca
 
 </div>
+
+<div aling="justify">
 
 Hecho por: __Pedro Martín Escuela__
 
