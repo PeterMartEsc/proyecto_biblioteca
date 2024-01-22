@@ -1,1 +1,0 @@
-<img src="diagramas/diagrama_CasosUso/diagramaCasosUso.png">
