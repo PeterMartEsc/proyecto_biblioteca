@@ -51,7 +51,7 @@ Se pretende crear un sistema para gestionar una biblioteca. Sus usos entre otros
 </br>
 
 Utilizaremos el GitHub principalmente. Aparte, trabajaremos en el Visual Studio y con el editor de código Inteliji Idea.
-Para la realización de los diagramas, utilizaremos la página web app.diagrams.net .
+Para la realización de los diagramas, utilizaremos la página web [diagrams.net](https://app.diagrams.net/).
 
 </br>
 
