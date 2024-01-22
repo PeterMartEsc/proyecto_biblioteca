@@ -24,7 +24,7 @@
 
 </br>
 
->Se necesita un sistema para gestionar una biblioteca.
+Se necesita un sistema para gestionar una biblioteca.
 
 </br>
 
