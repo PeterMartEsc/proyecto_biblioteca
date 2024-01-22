@@ -3,7 +3,7 @@
 </br>
 
 <div style="text-align: center;"> 
-<img src="ActoresCU.png">
+<center><img src="ActoresCU.png"></center>
 </div>
 
 </br>
