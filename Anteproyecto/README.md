@@ -22,15 +22,9 @@
 
 ### Descripción del problema. <a name="descrip"></a>
 
-</br>
-
 Se necesita un sistema para gestionar una biblioteca.
 
-</br>
-
 ### Objetivo. <a name="obj"></a>
-
-</br>
 
 Se pretende crear un sistema para gestionar una biblioteca. Sus usos entre otros serán: 
 
@@ -44,27 +38,17 @@ Se pretende crear un sistema para gestionar una biblioteca. Sus usos entre otros
 
 - Gestionar eventos.
 
-</br>
-
 ### Arquitectura y tecnologías a utilizar. <a name="arqui"></a>
-
-</br>
 
 Utilizaremos el GitHub principalmente. Aparte, trabajaremos en el Visual Studio y con el editor de código Inteliji Idea.
 Para la realización de los diagramas, utilizaremos la página web [diagrams.net](https://app.diagrams.net/).
 
-</br>
-
 #### Boceto de la solución
-
-</br>
 
 >Nota:
 
 <div align="center">
 <img src="../img/imagen-boceto.png" />
 </div>
-
-</br>
 
 </div>
