@@ -1,5 +1,5 @@
 ## Diagrama
 
 <div style="text-align: center;"> 
-<img src="DiagramaClases.png">
+<img src="img/DiagramaClases.png">
 </div>
