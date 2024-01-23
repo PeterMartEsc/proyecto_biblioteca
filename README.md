@@ -12,11 +12,11 @@ Este es un proyecto realizado en el primer año del Ciclo Superior "Desarrollo d
 
 ## Índice
 
-- [Anteproyecto](Anteproyecto)
+- [Anteproyecto](anteproyecto)
 
-- [Diagrama Casos de Uso](Diagramas/Diagrama_CasosUso)
+- [Diagrama Casos de Uso](diagramas/diagrama-casos-uso)
 
-- [Diagrama de Clases](Diagramas/Diagrama_Clases)
+- [Diagrama de Clases](diagramas/diagrama-clases)
 
 
 </div>
