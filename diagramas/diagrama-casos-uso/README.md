@@ -6,6 +6,8 @@
 
 </br>
 
+En el siguiente documento podremos ver el diagrama de Casos de Uso sobre el [proyecto](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) y las especificaciones del mismo.
+
 ## Indice
 
 - [Actores ](#actores)
