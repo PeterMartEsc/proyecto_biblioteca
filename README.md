@@ -18,5 +18,6 @@ Este es un proyecto realizado en el primer año del Ciclo Superior "Desarrollo d
 
 - [Diagrama de Clases](diagramas/diagrama-clases)
 
+- [Diagrama de Actividad](diagramas/diagramas-actividad)
 
 </div>
