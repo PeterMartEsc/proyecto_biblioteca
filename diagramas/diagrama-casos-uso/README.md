@@ -40,7 +40,7 @@ En el siguiente documento podremos ver el diagrama de Casos de Uso sobre el [pro
 
 </br>
 
-<div style="text-align: center;"> 
+<div align="center"> 
 <img src="img/ActoresCU.png">
 </div>
 
