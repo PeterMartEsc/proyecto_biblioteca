@@ -10,7 +10,7 @@
 
 - [Actores ](#actores)
 
-- [Casos de Uso ](#casoUso)
+- [Casos de Uso ](#casou)
 
 - [Diagrama ](#diagrama)
 
@@ -44,7 +44,7 @@
 
 </br>
 
-## Casos de Uso <a name="casosUso"></a>
+## Casos de Uso <a name="casou"></a>
 
 </br>
 
@@ -54,7 +54,7 @@
 
 </br>
 
-## Diagrama <a name="diagramas"></a>
+## Diagrama <a name="diagrama"></a>
 
 </br>
 
