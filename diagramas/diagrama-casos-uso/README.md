@@ -127,6 +127,8 @@
   | Autor  | _Pedro Martín Escuela_ |
   |Fecha | _24/01/2024_ |
 
+  </br>
+
   <a name="CU2"></a>
 
   |  Caso de Uso 2 | Seleccionar y Prestar |
@@ -141,6 +143,8 @@
   |  Notas | - - - |
   | Autor  | _Pedro Martín Escuela_ |
   |Fecha | _24/01/2024_ |
+
+  </br>
 
   <a name="CU3"></a>
 
@@ -157,6 +161,8 @@
   | Autor  | _Pedro Martín Escuela_ |
   |Fecha | _24/01/2024_ |
 
+  </br>
+
   <a name="CU4"></a>
 
   |  Caso de Uso 4 | Deja Comentario |
@@ -171,6 +177,8 @@
   |  Notas | - - - |
   | Autor  | _Pedro Martín Escuela_ |
   |Fecha | _24/01/2024_ |
+
+  </br>
 
   <a name="CU5"></a>
 
@@ -187,6 +195,8 @@
   | Autor  | _Pedro Martín Escuela_ |
   |Fecha | _24/01/2024_ |
 
+  </br>
+
   <a name="CU6"></a>
 
   |  Caso de Uso 6 | Registrar Usuario |
@@ -201,6 +211,8 @@
   |  Notas | - - - |
   | Autor  | _Pedro Martín Escuela_ |
   |Fecha | _24/01/2024_ |
+
+  </br>
 
   <a name="CU7"></a>
 
@@ -217,6 +229,8 @@
   | Autor  | _Pedro Martín Escuela_ |
   |Fecha | _24/01/2024_ |
 
+  </br>
+
   <a name="CU8"></a>
 
   |  Caso de Uso 8 | Realizar Prestamo |
@@ -232,6 +246,8 @@
   | Autor  | _Pedro Martín Escuela_ |
   |Fecha | _24/01/2024_ |
 
+  </br>
+
   <a name="CU9"></a>
 
   |  Caso de Uso 9 | Procesar Devolución |
@@ -246,6 +262,8 @@
   |  Notas | - - - |
   | Autor  | _Pedro Martín Escuela_ |
   |Fecha | _24/01/2024_ |
+
+  </br>
 
   <a name="CU10"></a>
 
