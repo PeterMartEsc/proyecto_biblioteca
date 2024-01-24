@@ -108,8 +108,6 @@
 | Número de Empleado  | _Numero que identifica a cada empleado_  | _Int_ |
 | Horario Laboral  | _Horario de trabajo del propio empleado_  | _String_ |
 
-</br>
-
 ## Casos de Uso <a name="casosue"></a>
 
 <a name="CU1"></a>
