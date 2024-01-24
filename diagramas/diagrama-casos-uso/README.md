@@ -8,13 +8,13 @@
 
 ## Indice
 
-- [Actores ](#Actores)
+- [Actores ](#actores)
 
-- [Casos de Uso ](#CasoUso)
+- [Casos de Uso ](#casoUso)
 
-- [Diagrama ](#Diagrama)
+- [Diagrama ](#diagrama)
 
-- [Especificaciones ](#Especificaciones)
+- [Especificaciones ](#especificaciones)
 
   - [Actores ](#ActoresEspe)
 
@@ -34,7 +34,7 @@
     - [Caso de Uso 9](#CU9)
     - [Caso de Uso 10](#CU10)
 
-## Actores <a name="Actores"></a>
+## Actores <a name="actores"></a>
 
 </br>
 
@@ -44,7 +44,7 @@
 
 </br>
 
-## Casos de Uso <a name="CasosUso"></a>
+## Casos de Uso <a name="casosUso"></a>
 
 </br>
 
@@ -54,7 +54,7 @@
 
 </br>
 
-## Diagrama <a name="Diagramas"></a>
+## Diagrama <a name="diagramas"></a>
 
 </br>
 
@@ -66,7 +66,7 @@
 
 <div style="text-align: center;"> 
 
-# Especificaciones <a name="Especificaciones"></a>
+# Especificaciones <a name="especificaciones"></a>
 
 </div>
 
