@@ -70,8 +70,6 @@
 
 </div>
 
-</br>
-
 ## Actores <a name="ActoresEspe"></a>
 
 <a name="UsuarioEspe"></a>
@@ -109,6 +107,8 @@
 | Nombre  | _Nombre del empleado_  | _String_ |
 | Número de Empleado  | _Numero que identifica a cada empleado_  | _Int_ |
 | Horario Laboral  | _Horario de trabajo del propio empleado_  | _String_ |
+
+</br>
 
 ## Casos de Uso <a name="CasosUsoEspe"></a>
 
