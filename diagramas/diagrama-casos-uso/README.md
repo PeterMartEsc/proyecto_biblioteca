@@ -16,12 +16,12 @@
 
 - [Especificaciones ](#especificaciones)
 
-  - [Actores ](#ActoresEspe)
+  - [Actores ](#actoresE)
 
     - [Usuario](#UsuarioEspe)
     - [Bibliotecario](#BibliotecarioEspe)
 
-  - [Casos de Uso ](#CasoUsoEspe)
+  - [Casos de Uso ](#casosue)
 
     - [Caso de Uso 1](#CU1)
     - [Caso de Uso 2](#CU2)
@@ -70,7 +70,7 @@
 
 </div>
 
-## Actores <a name="ActoresEspe"></a>
+## Actores <a name="actoresE"></a>
 
 <a name="UsuarioEspe"></a>
 
@@ -110,7 +110,7 @@
 
 </br>
 
-## Casos de Uso <a name="CasosUsoEspe"></a>
+## Casos de Uso <a name="casosue"></a>
 
 <a name="CU1"></a>
 
