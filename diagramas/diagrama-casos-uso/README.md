@@ -84,7 +84,7 @@
 | Referencias | _C.U.1, C.U.2, C.U.3, C.U.4, C.U.5_ |   
 |  Notas |  - - - |
 | Autor  | _Pedro Martín Escuela_ |
-|Fecha | _23/01/24_ |
+|Fecha | _23/01/2024_ |
 
 |  Atributos Usuario |||
 |---|---|---|
@@ -102,7 +102,7 @@
 | Referencias | _C.U.6, C.U.7, C.U.8, C.U.9, C.U.10_ |   
 |  Notas |  - - - |
 | Autor  | _Pedro Martín Escuela_ |
-|Fecha | _23/01/24_ |
+|Fecha | _23/01/2024_ |
 
 |  Atributos Bibliotecario |||
 |---|---|---|
@@ -114,150 +114,150 @@
 
 <a name="CU1"></a>
 
-|  Caso de Uso 1 |  |
+|  Caso de Uso 1 | Buscar libro |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO)  |
+  | Actor  |  _Usuario_ |
+  | Descripción | _Busca un libro en el sistema_ |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | Buscar por Título, Buscar por Autor, Buscar por Categoría |  
+  |  Requerimientos | - - - |
+  |  Notas |  - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
 
   <a name="CU2"></a>
 
-  |  Caso de Uso 2 |  |
+  |  Caso de Uso 2 | Seleccionar y Prestar |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) |
+  | Actor  | _Usuario_ |
+  | Descripción | _Selecciona un libro y lo presta_  |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | - - - |  
+  |  Requerimientos | - - - |
+  |  Notas | - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
 
   <a name="CU3"></a>
 
-  |  Caso de Uso 3 |  |
+  |  Caso de Uso 3 | Devuelve Libro Prestado |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) |
+  | Actor  | _Usuario_ |
+  | Descripción | _Devuelve un libro que haya tomado prestado con anterioridad_ |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | - - - |  
+  |  Requerimientos | - - - |
+  |  Notas | - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
 
   <a name="CU4"></a>
 
-  |  Caso de Uso 4 |  |
+  |  Caso de Uso 4 | Deja Comentario |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) |
+  | Actor  | _Usuario_ |
+  | Descripción | _Comenta en un libro_  |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | - - - |  
+  |  Requerimientos | - - - |
+  |  Notas | - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
 
   <a name="CU5"></a>
 
-  |  Caso de Uso 5 |  |
+  |  Caso de Uso 5 | Ver Lista de Libros |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) |
+  | Actor  | _Usuario_ |
+  | Descripción | _Ve la lista de libros existentes en una categoría_  |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | - - - |  
+  |  Requerimientos | Seleccionar Categoría |
+  |  Notas | - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
 
   <a name="CU6"></a>
 
-  |  Caso de Uso 6 |  |
+  |  Caso de Uso 6 | Registrar Usuario |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) |
+  | Actor  | _Bibliotecario_ |
+  | Descripción | _Registra un nuevo usuario en el sistema de la biblioteca_ |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | - - - |  
+  |  Requerimientos | - - - |
+  |  Notas | - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
 
   <a name="CU7"></a>
 
-  |  Caso de Uso 7 |  |
+  |  Caso de Uso 7 | Agregar Libro |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) |
+  | Actor  | _Bibliotecario_ |
+  | Descripción | _Agrega nuevo libro al sistema_  |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | - - - |  
+  |  Requerimientos | - - - |
+  |  Notas | - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
 
   <a name="CU8"></a>
 
-  |  Caso de Uso 8 |  |
+  |  Caso de Uso 8 | Realizar Prestamo |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) |
+  | Actor  | _Bibliotecario_ |
+  | Descripción | _Presta a un usuario un libro que haya solicitado anteriormente_  |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | - - - |  
+  |  Requerimientos | - - - |
+  |  Notas | - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
 
   <a name="CU9"></a>
 
-  |  Caso de Uso 9 |  |
+  |  Caso de Uso 9 | Procesar Devolución |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) |
+  | Actor  | _Bibliotecario_ |
+  | Descripción | _Procesa la devolución de un libro por parte del usuario_  |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | - - - |  
+  |  Requerimientos | - - - |
+  |  Notas | - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
 
   <a name="CU10"></a>
 
-  |  Caso de Uso 10 |  |
+  |  Caso de Uso 10 | Gestionar Reserva |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Fuentes  | [Proyecto Biblioteca](https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO) |
+  | Actor  | _Bibliotecario_ |
+  | Descripción | _Gestiona la reserva de libros_  |
+  | Flujo básico | - - - |
+  | Pre-condiciones | - - - |  
+  | Post-condiciones  | _Visualizar Información, Modifica_ |  
+  |  Requerimientos | - - - |
+  |  Notas | - - - |
+  | Autor  | _Pedro Martín Escuela_ |
+  |Fecha | _24/01/2024_ |
