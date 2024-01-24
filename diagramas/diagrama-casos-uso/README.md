@@ -39,10 +39,8 @@ En el siguiente documento podremos ver el diagrama de Casos de Uso sobre el [pro
 ## Actores <a name="actores"></a>
 
 </br>
-
-<div align="center"> 
+ 
 <img src="img/ActoresCU.png">
-</div>
 
 </br>
 
@@ -50,7 +48,7 @@ En el siguiente documento podremos ver el diagrama de Casos de Uso sobre el [pro
 
 </br>
 
-<div style="text-align: center;"> 
+<div align="center">
 <img src="img/CasosDeUso.png">
 </div>
 
@@ -60,7 +58,7 @@ En el siguiente documento podremos ver el diagrama de Casos de Uso sobre el [pro
 
 </br>
 
-<div style="text-align: center;"> 
+<div align="center">
 <img src="img/DiagramaCasosUso.png">
 </div>
 
