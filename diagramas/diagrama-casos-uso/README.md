@@ -35,6 +35,12 @@ En el siguiente documento podremos ver el diagrama de Casos de Uso sobre el [pro
     - [Caso de Uso 8](#CU8)
     - [Caso de Uso 9](#CU9)
     - [Caso de Uso 10](#CU10)
+    - [Caso de Uso 10](#CU11)
+    - [Caso de Uso 10](#CU12)
+    - [Caso de Uso 10](#CU13)
+    - [Caso de Uso 10](#CU14)
+    - [Caso de Uso 10](#CU15)
+    - [Caso de Uso 10](#CU16)
 
 ## Actores <a name="actores"></a>
 
