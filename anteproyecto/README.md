@@ -45,10 +45,8 @@ Para la realización de los diagramas, utilizaremos la página web [diagrams.net
 
 #### Boceto de la solución
 
->Nota:
-
 <div align="center">
-<img src="../img/imagen-boceto.png" />
+<img src="../diagramas/diagrama-de-casos-uso/img/DiagramaCasosUso.png />
 </div>
 
 </div>
