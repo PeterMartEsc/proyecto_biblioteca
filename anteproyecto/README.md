@@ -46,7 +46,7 @@ Para la realización de los diagramas, utilizaremos la página web [diagrams.net
 #### Boceto de la solución
 
 <div align="center">
-<img src="../diagramas/diagrama-de-casos-uso/img/DiagramaCasosUso.png />
+<img src="../../diagramas/diagrama-de-casos-uso/img/DiagramaCasosUso.png />
 </div>
 
 </div>
